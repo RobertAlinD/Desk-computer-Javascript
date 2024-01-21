@@ -1,0 +1,35 @@
+.container{
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    padding-top: 10px;
+    background-color: antiquewhite;
+    box-shadow: 5px 5px lightblue;
+    border-radius: 10px;
+}
+
+body {
+    font-size: 2rem;
+}
+input {
+    font-size: 2rem;
+    background-color: grey;
+    margin-left: 25px;
+    margin-top: 2px;
+}
+button {
+    font-size: 2rem;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.container-buttons {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+h5 {
+    margin-left: 50px;
+}
